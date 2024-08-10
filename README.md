@@ -9,6 +9,7 @@ The purpose of our app, GenericWisdom, is to assist users with a fast way to com
 
 ## Project Presentation
 https://docs.google.com/presentation/d/1ZtcR0eauY5mY9n1pYJOVmn1o_-ixrUANmGIR6iFkRy4/edit?usp=sharing
+This link is a presentation that explains our first iteration of our application, what we learned, and the final application. This is also a video demo included at the end. The entire project started from interviewing potential users and asking their thoughts. We then proceeded with paper prototyping and then went into user testing. After a few iterations we moved onto the software version and restarted the UX process(shown in the link above). 
 
 
 ## Platform Details
