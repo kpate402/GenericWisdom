@@ -7,6 +7,10 @@ The purpose of our app, GenericWisdom, is to assist users with a fast way to com
 <img width="168" alt="Screenshot 2023-12-18 at 10 07 28 AM" src="https://github.com/kpate402/GenericWisdom/assets/74434573/98b99ecd-bf23-4c80-b5f2-80d711aedc88">
 <img width="167" alt="Screenshot 2023-12-18 at 10 08 16 AM" src="https://github.com/kpate402/GenericWisdom/assets/74434573/9b62a2cc-8b81-4137-9ec2-ed8db1076343">
 
+## Project Presentation
+https://docs.google.com/presentation/d/1ZtcR0eauY5mY9n1pYJOVmn1o_-ixrUANmGIR6iFkRy4/edit?usp=sharing
+
+
 ## Platform Details
 Our app can be run on any development OS - Mac, Windows, or Linux, and runs on android or an android emulator. The necessary dependencies are Node, Watchman, the React Native command line interface, a JDK, and Android Studio (note: while any editor can be used to develop the app, Android Studio is needed to set up the necessary tooling required to build the react native app for android).
 Although different versions of Node and jdk can be downloaded, we have used Node version 21 (anything above 16 can be used) and Java version 11. (Note: some higher Java versions may cause problems when running the app)
